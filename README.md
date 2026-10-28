@@ -15,7 +15,7 @@ Estensione per Chrome che, sulle pagine **live** di Leghe Fantacalcio, calcola i
 - **Backup**: dall'ingranaggio puoi esportare/importare in un file JSON le regole di tutte le leghe.
 
 ## Installazione
-**Da Chrome Web Store**: (link quando pubblicata).
+**Da Chrome Web Store**: [Fantalega Live Predictor](https://chromewebstore.google.com/detail/olfcdnnbejelaboedjggalmhfcklcemg).
 
 **Manuale (sviluppatori)**
 1. Scarica o clona il repository.
